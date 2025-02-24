@@ -1,0 +1,20 @@
+AnimeFace can be download at 
+https://www.kaggle.com/datasets/splcher/animefacedataset
+
+To show the CMMD and WD-latent of trained generator from Cramer for AnimeFace
+./CR_Show_CMMD_WD_AF.sh
+
+To show the CMMD and WD-latent of trained generator from Cramer for CelebA
+./CR_Show_CMMD_WD_CE.sh
+
+To show the CMMD and WD-latent of trained generator from Cramer+PPM-Reg for AnimeFace
+./PPM_Show_CMMD_WD_AF.sh
+
+To show the CMMD and WD-latent of trained generator from Cramer+PPM-Reg for CelebA 
+./PPM_Show_CMMD_WD_CE.sh
+
+To train a Cramer for AnimeFace from scratch
+./CR_Train_AF.sh
+
+To train a Cramer+ PPM-Reg for AnimeFace from scratch
+./PPM_Train_AF.sh
